@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "materials\stickman\body"
+	"$bumpmap" "materials\stickman\normal"
+	"$nodecal" "1"
+
+	"$cloakpassenabled" "1"
+	"$cloakfactor" "0.1"
+	"$cloakcolortint" "[0 0 0]"
+	"$refractamount" "0"
+}
